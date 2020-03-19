@@ -57,4 +57,5 @@ print(list.count(4))
 del list[4]
 print(list)
 
+print("After finishing my changes I like to check for errors")
 
